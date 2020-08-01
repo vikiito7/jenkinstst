@@ -8,3 +8,5 @@ Expose 80
 Entrypoint ["/usr/sbin/nginx"]
 
 CMD ["-g","daemon off;"]
+
+# Qualquer coisa
